@@ -4,7 +4,7 @@ All the information I found while reverse engineering and playing the game. It's
 
 ## People
 
-![Map People](map_people.svg)
+![Map People](img/map_people.png)
 
 ### Swedish Names
 
@@ -22,7 +22,7 @@ All the information I found while reverse engineering and playing the game. It's
 
 These are all the locations where you have to pick up items from the ground. The values in brackets are the X and Y coordinates and the third number is the radius for random positions. Locations close together only have one marker.
 
-![Map Locations](map_locations.svg)
+![Map Locations](img/map_locations.png)
 
 ### Anton
 * 1: Book (500, 1740) ø50
