@@ -68,10 +68,14 @@ These are all the locations where you have to pick up items from the ground. The
 
 ### Viktor
 * 12: Seismograph Part 1 (2545, 2900) ø100
-* 13: Seismograph Part 3 Bird (500, -200) ø20
+* 13: Seismograph Part 3 Bird (500, -200) ø20 (fly through flock of white birds until right one is caught)
 
 
 ## Difficult Missions
+
+### Roy
+
+* Take pictures: Get camera from Sam Scribbler, fly over entire map (minimap becomes clickable), and get photos developed
 
 ### Viola
 
@@ -87,6 +91,15 @@ These are all the locations where you have to pick up items from the ground. The
 
 * Seismograph Part 1: Check my map
 
+### Pelle
+
+* Seismograph Part 2: Distribute leaflets over world exhibition (by flying over it with any plane)
+* Cable for Grotte (requires VTOL): Distribute leaflets over city (by flying over it with any plane)
+
+### Plane competition
+
+* Fly to world exhibition and land on the left
+
 
 ## New Parts
 
@@ -99,9 +112,9 @@ These are all the locations where you have to pick up items from the ground. The
 
 * Sampo: Skis required
 * Kalle: Skis required
-* Fiona: Hook required. You can only land on the platform where the house it. There's an invisible line at half the height which you can collide with.
+* Fiona: Grappling hook required. You can only land on the platform where the house it. There's an invisible line at half the height which you can collide with.
 * Gabriella: Floats required
-* Pelle: Hook required. Doesn't have a windsock, it's just a wooden rectangle moving around on the sea. You can land on the deck of the ship.
+* Pelle: Grappling hook required. Doesn't have a windsock, it's just a wooden rectangle moving around on the sea. You can land on the deck of the ship.
 * Victor: Floats required
 
 
